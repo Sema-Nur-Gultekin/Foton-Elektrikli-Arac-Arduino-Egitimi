@@ -1,1 +1,1 @@
-# Foton-Elektrikli-Arac-Arduino-Egitimi
+# Foton Elektrikli Araç Arduino Eğitimi
